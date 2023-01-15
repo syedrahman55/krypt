@@ -1,1 +1,1 @@
-Website: https://horizon-3.000webhostapp.com/
+Website: https://krypt-nisar.netlify.app/
